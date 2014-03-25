@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'sg8jDmIMrvInlcjrD3qKnSGForQsNSd3FynIa1TPGRA4KZcB', // Unique master Xively API key to be used as a default
+	var defaultKey		= 'jvOAL3SVqViirn4cuWBXk6DNeI41Pc7OeBWY3heU1krnETEf', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [1626204806], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'CH2M Sensor Demonstration', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
